@@ -31,22 +31,22 @@ Os códigos estão organizados em duas pastas principais: **AI-Applying** e **AI
 ## Como executar
 
 ### Clone este repositório:
-   git clone https://github.com/joaorromano19/IntroducaoAI-Rocketseat.git
-   cd IntroducaoAI-Rocketseat
+   - git clone https://github.com/joaorromano19/IntroducaoAI-Rocketseat.git
+   - cd IntroducaoAI-Rocketseat
 ### Crie um ambiente virtual e ative:
 
-python -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
+- python -m venv venv
+- source venv/bin/activate   # macOS/Linux
+- venv\Scripts\activate      # Windows
 ### Instale as dependências:
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## Para rodar os exemplos:
 
-AI-Applying: configure sua API Key da OpenAI no código e execute o script Python.
+- AI-Applying: configure sua API Key da OpenAI no código e execute o script Python.
 
-AI-Creating: abra o notebook (.ipynb) em um ambiente Jupyter e rode célula por célula.
+- AI-Creating: abra o notebook (.ipynb) em um ambiente Jupyter e rode célula por célula.
 
 ## Tecnologias utilizadas
 - Python 3
